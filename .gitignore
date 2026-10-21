@@ -1,0 +1,14 @@
+# Reports contain local computer, account and security configuration details.
+/reports/
+/.exe-validation/
+/exe-self-test.log
+*.log
+*.tmp
+*.pdb
+/.vs/
+/.vscode/
+/bin/
+/obj/
+Thumbs.db
+Desktop.ini
+~$*.xlsx
